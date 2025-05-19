@@ -31,7 +31,8 @@ GRAMHANE Bolt, kuyumcuların arka ofis işlemlerini kolaylaştırmak için geli�
 
    ```bash
    git clone https://github.com/musxos/GRAMHANE-altin.git
-   npm install npm run dev
+   npm install
+   npm run dev
    ```
 
 
