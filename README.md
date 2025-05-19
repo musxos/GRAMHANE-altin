@@ -1,5 +1,5 @@
 
-#GRAMHANE - Kuyumcu Destekli Finans Takip ve Fatura Sistemi
+# GRAMHANE - Kuyumcu Destekli Finans Takip ve Fatura Sistemi
 
 GRAMHANE Bolt, kuyumcuların arka ofis işlemlerini kolaylaştırmak için geliştirilen, yapay zeka destekli, Türkçe ve kullanıcı dostu bir web platformudur. Banka işlemleri, fatura yönetimi ve altın/gümüş fiyat takibi gibi birçok süreci tek panel üzerinden yönetmenizi sağlar.
 
